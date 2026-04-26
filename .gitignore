@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Numba JIT cache
+*.nbc
+*.nbi
+
+# Generated benchmark/experiment output directories
+paper_results_*/
+benchmark_1b_int32_*/
+
+# GA output
+best_params_hybmsearch.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Virtual environments
+venv/
+.venv/
+env/

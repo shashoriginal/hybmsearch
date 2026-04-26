@@ -1,0 +1,43 @@
+HyBMSearch (Hybrid Bayesian Multi-Level Search)
+License: Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+
+Copyright (c) 2026 Shashank Raj and Kalyanmoy Deb
+
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0
+International License.
+To view a copy of this license, visit:
+https://creativecommons.org/licenses/by-nc/4.0/
+
+Permissions:
+- You may use, share, reproduce, and create derivative works based on
+  HyBMSearch (Hybrid Bayesian Multi-Level Search).
+- You must provide proper attribution to the original authors.
+
+Restrictions:
+- You may NOT commercialize either:
+  1) the current version of HyBMSearch, or
+  2) any derivative version of HyBMSearch.
+- Any commercial use requires explicit prior written permission from the authors.
+
+Citation Requirement:
+If you use this work, please cite:
+
+@article{raj2026hybmsearch,
+  title={HyBMSearch: A Fast Multi-Level Search Algorithm Delivering Order-of-Magnitude Speedups on Multi-Billion Datasets},
+  author={Raj, Shashank and Deb, Kalyanmoy},
+  journal={Journal of Parallel and Distributed Computing},
+  pages={105226},
+  year={2026},
+  publisher={Elsevier}
+}
+
+Acknowledgment:
+We acknowledge and thank the resources provided by Computational Optimization and
+Innovation Laboratory.
+
+Disclaimer:
+This software is provided "as is", without warranty of any kind, express or
+implied, including but not limited to the warranties of merchantability, fitness
+for a particular purpose, and noninfringement. In no event shall the authors be
+liable for any claim, damages, or other liability arising from, out of, or in
+connection with the software or the use or other dealings in the software.
