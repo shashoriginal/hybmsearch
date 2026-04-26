@@ -5,7 +5,7 @@
   
   [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
   [![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-  [![DOI](https://img.shields.io/badge/DOI-10.2139%2Fssrn.5224518-blue.svg)](https://doi.org/10.1016/j.jpdc.2026.105226)
+  [![DOI](https://img.shields.io/badge/https://doi.org/10.1016/j.jpdc.2026.105226-blue.svg)](https://doi.org/10.1016/j.jpdc.2026.105226)
   
   *A Fast Multi-Level Search Algorithm Delivering Order-of-Magnitude Speedups on Multi-Billion Datasets*
 </div>
